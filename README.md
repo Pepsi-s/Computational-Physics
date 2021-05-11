@@ -1,6 +1,8 @@
 # Computational-Physics
 My solution to Computational Physics Course
 
+Text book: J. Wang, Computational modeling and visualization of physical systems with Python (wILEY, 2015).
+
 Content: 
 
 1. Modeling and Visualization of Brownian Motion with Python 
