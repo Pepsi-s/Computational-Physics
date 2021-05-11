@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 11 21:07:50 2021
-
 @author: pepsi-s
 """
 
